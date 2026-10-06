@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+model_fp32.pth
+model_int8.pth
+*.pt
+*.pth
+*.docx
+*.webloc
+.DS_Store

@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+__pycache__
+*.py[cod]
+.venv
+venv
+tests
+*.pth
+*.pt
+*.docx
+*.webloc
+.DS_Store
